@@ -15,4 +15,3 @@ if M > 0:
     print(f"El producto de los primeros {M} números pares es: {producto}")
 else:
     print("Por favor, introduce un número entero positivo.")
-    
